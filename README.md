@@ -2,8 +2,8 @@
 Neural Computing Coursework
 
 Code:
-* MLP_training.ipynb and SVM_training.ipynb for training
-* models_testing.ipynb for testing
+* for training: MLP_training.ipynb and SVM_training.ipynb 
+* for testing: models_testing.ipynb 
 
 Report:
 * NECO_report.pdf
